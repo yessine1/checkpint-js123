@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Laila');
+#salut{
+
+    font-weight: normal;
+    font-style:normal;
+    
+}
+.button {
+    color: white;
+  padding: 16px;
+  font-size: 16px;
+  cursor : pointer;
+  background :  orange ;
+  display : inline
+}
+.button:hover {background-color: red;}
+
